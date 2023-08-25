@@ -2,13 +2,6 @@ const lodash = require('lodash');
 
 const array = [
   {
-    "id": "64e56511aa4e29ce22d5334f",
-    "nombre": "Estes",
-    "apellido": "Lyons",
-    "edad": 23,
-    "ciudad": "Greenwich"
-  },
-  {
     "id": "64e565118c5cbaced565d200",
     "nombre": "Bradford",
     "apellido": "Sheppard",
