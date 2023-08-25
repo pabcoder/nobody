@@ -1,5 +1,7 @@
 const lodash = require('lodash');
 
+const ejemplo = 'Hola!';
+
 const array = [
   {
     "id": "64e56511aa4e29ce22d53341",
