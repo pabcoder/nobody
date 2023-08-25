@@ -19,6 +19,6 @@ function cantidadRecolectada(
     return cantidadRecolectadaSimple(costoEstudiante, cantidadEstudiantes) + cantidadRecolectadaSimple(costoAdulto, cantidadAdultos);
 }
 
-const resultado = cantidadRecolectada(2, 10, 5, 2);
+const resultado = cantidadRecolectada(2, 5, 5, 2);
 
 console.log(resultado);
